@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+}
+
+header {
+    height: 60px;
+    background-color: #3B589A;
+    color: white;
+    margin-bottom: 2px;
+    padding-top: 2px;
+}
+
+header .header-rigth{
+    margin-left: 50%;
+}
+
+header .header-left{
+    float: left;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+aside {
+    width: 30%;
+    border: 3px dashed black;
+    margin-bottom: 10px;
+    float: left;
+    color: black;
+
+}
+
+aside form input{
+    display: block;
+}
+
+
+
+
+
+section {
+    width: 60%;
+    color: black;
+    text-align: left;
+    border: 1px solid #095f14;
+    float: right;
+    margin-bottom: 10px;
+}
+section  .panel-header{
+    background-color: #3B589A;
+    color: white;
+}
+
+section h1  {
+    text-align: center;
+}
+
+section img {
+    width: 150px;
+}
+
+
+
+
+
+footer {
+    height: 26px;
+    background-color: #3949ab;
+    color: white;
+    text-align: center;
+    border: 3px solid #2d02ab;
+    clear: both;
+}
+
+
+
